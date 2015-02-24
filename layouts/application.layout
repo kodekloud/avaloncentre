@@ -130,9 +130,7 @@
     .navbar .nav li a:hover,.navbar .nav li a:active{
      
     }
-    .navbar .nav li a:hover {
-color: #999999 !important;
-}
+    
     
     .site_welcome_msg{
         font-size:22px !important;
@@ -181,7 +179,7 @@ color: #999999 !important;
     }
     
     .navbar .nav li a:hover {
-        color:black !important;
+        color:#999999 !important;
     
     }
      .site-map-section a:hover {
