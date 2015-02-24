@@ -151,7 +151,7 @@
         color:#18498d;
     }
     #social_media_wrapper a:hover{
-        color:white;
+        color:white !important;
         background:#18498d;
     }
     .map-mouse-over{
