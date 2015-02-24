@@ -173,7 +173,7 @@
         padding-bottom:10px;
     }
     .breadcrumb > .active {
-    color: #e3e8f19 !important;
+    color: red;
 }
     
     .right_column_header {
