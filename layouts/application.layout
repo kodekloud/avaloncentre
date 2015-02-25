@@ -361,7 +361,7 @@
                             <li>
                             <a  class="close-search list-group-item" style="">
                                 <small>
-                                    <span>Today's Hours </span>
+                                    <!--<span>Today's Hours </span>-->
                                 </small>
                                 <small class="pull-right" id="todays-hours-search">
                                 
