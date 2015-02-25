@@ -127,7 +127,7 @@
         color:white;
     }
     .view_button {
-        background:#18498d;
+        background:#18498d !important;
     }
     
     .navbar .nav li a:hover,.navbar .nav li a:active{
