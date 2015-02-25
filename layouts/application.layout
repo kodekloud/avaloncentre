@@ -126,6 +126,9 @@
     .navbar .nav li a{
         color:white;
     }
+    .view_button {
+        background:#18498d;
+    }
     
     .navbar .nav li a:hover,.navbar .nav li a:active{
      
