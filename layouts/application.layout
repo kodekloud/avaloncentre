@@ -101,7 +101,9 @@
     body{
         background:white;
     }
-    
+     p input[type='image']{
+       width:100% !important;
+   }
     header{
         background: #18498d;
     }
