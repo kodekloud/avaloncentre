@@ -503,7 +503,6 @@
             renderPropertyLogo('#logo_template','#site_logo',propertyDetails);
             renderPropertyFooter('#footer_template','#footer_container',propertyDetails);
             renderTodaysHours('#todays_hours_search_template','#todays-hours-search');
-            
         }
         function renderPropertyLogo(logo_template,site_logo,propertyDetails){
             var item_list = [];
